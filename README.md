@@ -1,6 +1,3 @@
-Claro! Criar um arquivo `README.md` detalhado para acompanhar seu projeto é uma prática excelente para garantir que outros desenvolvedores possam entender e usar seu código corretamente. Aqui está um exemplo de como você poderia estruturar o `README.md` para o aplicativo que discutimos, incluindo a descrição do programa, instruções de instalação e uso, e explicações detalhadas das funções e variáveis:
-
-```markdown
 # PDF Assistant
 
 ## Descrição
@@ -84,5 +81,5 @@ Para suporte, abra uma issue no repositório GitHub do projeto ou envie um e-mai
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE.md` para detalhes.
-```
+
 
